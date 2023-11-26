@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="porte.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.104894"
+     inkscape:cx="295.05092"
+     inkscape:cy="274.23445"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="7.2405134"
+       y="15.386091"
+       width="728.57666"
+       height="349.35477"
+       id="rect3768" />
+    <rect
+       x="371.98138"
+       y="300.48131"
+       width="137.56975"
+       height="67.879813"
+       id="rect3762" />
+    <rect
+       x="51.198161"
+       y="53.758069"
+       width="545.26042"
+       height="188.15324"
+       id="rect3694" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3692"
+       style="font-size:64.00000081px;white-space:pre;shape-inside:url(#rect3694);fill:none;stroke:#ff0101;stroke-width:0.377953" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;white-space:pre;inline-size:242.161;fill:none;stroke:#ff0101;stroke-width:0.1"
+       x="20.319269"
+       y="45.379704"
+       id="text3700" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3760"
+       style="fill:none;stroke:#ff0101;stroke-width:0.37795276;font-size:64px;white-space:pre;shape-inside:url(#rect3762)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3766"
+       style="font-size:64px;white-space:pre;shape-inside:url(#rect3768);fill:none;stroke:#ff0101;stroke-width:0.377953"><tspan
+         x="7.2402344"
+         y="73.775859"
+         id="tspan4155">C'est facile... non, de </tspan><tspan
+         x="7.2402344"
+         y="153.77586"
+         id="tspan4157">fermer la porte...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;fill:none;stroke:#ff0101;stroke-width:0.1"
+       x="133.38194"
+       y="64.655518"
+       id="text3774"><tspan
+         sodipodi:role="line"
+         id="tspan3772"
+         style="stroke-width:0.1"
+         x="133.38194"
+         y="64.655518">MERCI</tspan></text>
+  </g>
+</svg>

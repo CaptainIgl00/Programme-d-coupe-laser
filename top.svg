@@ -2,9 +2,9 @@
 <svg
    width="200mm"
    height="200mm"
-   viewBox="0 0 200 200.00001"
+   viewBox="0 0 199.99999 200"
    version="1.1"
-   id="svg129"
+   id="svg121"
    sodipodi:docname="top.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,9 +15,9 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs133" />
+     id="defs125" />
   <sodipodi:namedview
-     id="namedview131"
+     id="namedview123"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.68691413"
-     inkscape:cx="426.54531"
-     inkscape:cy="639.09007"
+     inkscape:zoom="1.2124646"
+     inkscape:cx="275.47197"
+     inkscape:cy="356.29907"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg129" />
+     inkscape:current-layer="svg121" />
   <!--
 BasedBox - Fully closed box on a base
 
@@ -50,12 +50,12 @@ See ClosedBox for variant without a base.
 
 
 Created with Boxes.py (https://festi.info/boxes.py)
-Creation date: 2023-04-22 16:20:13
-Command line (remove spaces between dashes): boxes BasedBox - -thickness=2
-Url: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&x=100&y=100&h=100&outside=0&outside=1&thickness=2&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=fr&render=1
-Url short: http://www.festi.info/boxes.py/BasedBox?thickness=2
-SettingsUrl: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&x=100&y=100&h=100&outside=0&outside=1&thickness=2&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=fr
-SettingsUrl short: http://www.festi.info/boxes.py/BasedBox?thickness=2
+Creation date: 2023-06-30 18:07:59
+Command line (remove spaces between dashes): boxes BasedBox - -x=140 - -y=140 - -h=180
+Url: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&x=140&y=140&h=180&outside=0&outside=1&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=fr&render=1
+Url short: http://www.festi.info/boxes.py/BasedBox?x=140&y=140&h=180
+SettingsUrl: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&x=140&y=140&h=180&outside=0&outside=1&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=fr
+SettingsUrl short: http://www.festi.info/boxes.py/BasedBox?x=140&y=140&h=180
 -->
   <title
      id="title2">BasedBox</title>
@@ -64,9 +64,9 @@ SettingsUrl short: http://www.festi.info/boxes.py/BasedBox?thickness=2
     <rdf:RDF>
       <cc:Work>
         <dc:title>BasedBox</dc:title>
-        <dc:date>2023-04-22 16:20:13</dc:date>
-        <dc:source>http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=100&amp;y=100&amp;h=100&amp;outside=0&amp;outside=1&amp;thickness=2&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=fr&amp;render=1</dc:source>
-        <dc:source>http://www.festi.info/boxes.py/BasedBox?thickness=2</dc:source>
+        <dc:date>2023-06-30 18:07:59</dc:date>
+        <dc:source>http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=140&amp;y=140&amp;h=180&amp;outside=0&amp;outside=1&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=fr&amp;render=1</dc:source>
+        <dc:source>http://www.festi.info/boxes.py/BasedBox?x=140&amp;y=140&amp;h=180</dc:source>
         <dc:description>Fully closed box on a base
 
 This box is more of a building block than a finished item.
@@ -78,20 +78,27 @@ See ClosedBox for variant without a base.
 
 
 Created with Boxes.py (https://festi.info/boxes.py)
-Command line: boxes BasedBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_bottom_lip=0.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.0 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --x=100 --y=100 --h=100 --outside=0 --outside=1 --thickness=2 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
-Command line short: boxes BasedBox --thickness=2
-Url: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=100&amp;y=100&amp;h=100&amp;outside=0&amp;outside=1&amp;thickness=2&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=fr&amp;render=1
-Url short: http://www.festi.info/boxes.py/BasedBox?thickness=2
-SettingsUrl: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=100&amp;y=100&amp;h=100&amp;outside=0&amp;outside=1&amp;thickness=2&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=fr
-SettingsUrl short: http://www.festi.info/boxes.py/BasedBox?thickness=2
+Command line: boxes BasedBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_bottom_lip=0.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.0 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --x=140 --y=140 --h=180 --outside=0 --outside=1 --thickness=3.0 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
+Command line short: boxes BasedBox --x=140 --y=140 --h=180
+Url: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=140&amp;y=140&amp;h=180&amp;outside=0&amp;outside=1&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=fr&amp;render=1
+Url short: http://www.festi.info/boxes.py/BasedBox?x=140&amp;y=140&amp;h=180
+SettingsUrl: http://www.festi.info/boxes.py/BasedBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=140&amp;y=140&amp;h=180&amp;outside=0&amp;outside=1&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=fr
+SettingsUrl short: http://www.festi.info/boxes.py/BasedBox?x=140&amp;y=140&amp;h=180
 </dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     d="m 6.6223491,194.24264 h 5.8999999 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 3.8 c 0.1,0 0,-0.1 0,0 v 1.9 c 0,0.055 0.045,0.1 0.1,0.1 h 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -1.9 c 0,-0.1 -0.1,0 0,0 h 5.900001 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -3.8 c 0,-0.1 -0.1,0 0,0 h 1.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -4 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -1.9 c -0.1,0 0,0.1 0,0 v -5.899998 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.900001 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 h -3.8 c -0.1,0 0,0.1 0,0 v -1.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 1.9 c 0,0.1 0.1,0 0,0 H 6.6223491 c -0.055,0 -0.1,0.045 -0.1,0.1 v 5.899998 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 3.8 c 0,0.1 0.1,0 0,0 h -1.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 4 c 0,0.055 0.045,0.1 0.1,0.1 h 1.9 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1"
+     d="m 13.4,153.2 h 9.9 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 5.8 c 0.1,0 0,-0.1 0,0 v 2.9 c 0,0.055 0.045,0.1 0.1,0.1 h 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -2.9 c 0,-0.1 -0.1,0 0,0 h 9.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -9.9 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -5.8 c 0,-0.1 -0.1,0 0,0 h 2.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -6 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -2.9 c -0.1,0 0,0.1 0,0 v -9.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -9.9 c -0.1,0 0,0.1 0,0 v -2.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 v -2.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 v -2.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 v -2.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 V 16.1 C 89.5,16.045 89.455,16 89.4,16 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 V 16.1 C 77.5,16.045 77.455,16 77.4,16 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 V 16.1 C 65.5,16.045 65.455,16 65.4,16 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 V 16.1 C 53.5,16.045 53.455,16 53.4,16 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 V 16.1 C 41.5,16.045 41.455,16 41.4,16 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -5.8 c -0.1,0 0,0.1 0,0 V 16.1 C 29.5,16.045 29.455,16 29.4,16 h -6 c -0.055,0 -0.1,0.045 -0.1,0.1 V 19 c 0,0.1 0.1,0 0,0 h -9.9 c -0.055,0 -0.1,0.045 -0.1,0.1 V 29 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 V 41 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 V 53 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 V 65 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 V 77 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 V 89 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 v 5.8 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 v 5.8 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 v 5.8 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 v 5.8 c 0,0.1 0.1,0 0,0 h -2.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 6 c 0,0.055 0.045,0.1 0.1,0.1 h 2.9 c 0.1,0 0,-0.1 0,0 v 9.9 c 0,0.055 0.045,0.1 0.1,0.1"
      stroke="#000000"
      stroke-width="0.2"
      id="path33"
      style="fill:none;stroke-linecap:round;stroke-linejoin:round" />
+  <rect
+     style="fill:none;stroke:#ff0101;stroke-width:0.1;stroke-dasharray:none"
+     id="rect1745"
+     width="84.678162"
+     height="14.629721"
+     x="37.965675"
+     y="77.681602" />
 </svg>
