@@ -38,6 +38,11 @@ def plot_gcode(segments):
     plt.ylabel('Y')
     plt.title('Gcode Visualization')
     plt.grid()
+
+    # plot limits (200 x 200 mm)
+    plt.xlim(0, 200)
+    plt.ylim(0, 200)
+
     plt.show()
 
 def visualize_gcode(gcode_file):

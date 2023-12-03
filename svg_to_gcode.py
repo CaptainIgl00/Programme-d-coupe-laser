@@ -26,7 +26,7 @@ def segment_to_points(segment, segment_type, steps=100):
     )
 
 
-def path_to_gcode(path, scale=1.0, power=255, steps=100, first_path=True):
+def path_to_gcode(path, scale=1, power=255, steps=100, first_path=True):
     def move_to(x, y, gcode_prefix):
         return f"{gcode_prefix} X{x:.2f} Y{y:.2f}\n"
 
@@ -35,19 +35,24 @@ def path_to_gcode(path, scale=1.0, power=255, steps=100, first_path=True):
     for i, segment in enumerate(path):
         points = segment_to_points(segment, type(segment), steps)
 
-        for j, point in enumerate(points):
-            x, y = point.real * scale, point.imag * scale
-            gcode_prefix = "G0" if i == 0 and j == 0 and first_path else "G1"
+        # Active le laser au début de chaque segment
+        if i == 0 or not first_path:
+            gcode += "M106 S{power}\n"  # Allume le laser
 
-            if i == 0 and j == 0:
-                if not first_path:
-                    gcode += "M107\n"  # Laser OFF
-                gcode += move_to(x, y, gcode_prefix)
-                gcode += f"M106 S{power}\n"  # Laser ON
-            else:
-                gcode += move_to(x, y, gcode_prefix)
+        for j, point in enumerate(points):
+            y, x = point.real * scale - 220 , point.imag * scale + 15
+            gcode_prefix = "G1"  # Utilise G1 pour le mouvement linéaire
+
+            gcode += move_to(x, y, gcode_prefix)
+
+        # Désactive le laser à la fin de chaque segment
+        gcode += "M107\n"  # Éteint le laser
+
+        # S'assure que le prochain segment ne sera pas traité comme le premier
+        first_path = False
 
     return gcode
+
 
 def svg_to_gcode(file_path, scale=1.0, power=255, pass_nbr=1, speed=90):
     red_paths = parse_svg(file_path)
@@ -69,17 +74,23 @@ def svg_to_gcode(file_path, scale=1.0, power=255, pass_nbr=1, speed=90):
 def main():
     app = QApplication(sys.argv)
     input_svg = QFileDialog.getOpenFileName(None, 'Open File', '', 'SVG (*.svg)')[0]
-    output_gcode = 'output.gcode'
+    if not input_svg:
+        return
+    output_gcode = os.path.basename(input_svg).split('.')[0] + '.gcode'
     power = 255
-    pass_nbr = 12 # 120 passes for 3mm plywood
+    pass_nbr = 1 # 120 passes for 3mm plywood
     speed = 9000
 
-    gcode = svg_to_gcode(input_svg, power=power, pass_nbr=pass_nbr, speed=speed)
+    gcode = svg_to_gcode(input_svg, scale=0.27, power=power, pass_nbr=pass_nbr, speed=speed)
 
     with open(output_gcode, 'w') as f:
         f.write(gcode)
-    # move test.gcode file to I:\
+    import gcode_visualizer
+    gcode_visualizer.visualize_gcode(output_gcode)
+
+    # move test.gcode file to J:\
     os.system(f"move {output_gcode} J:\\")
+
 
 if __name__ == '__main__':
     main()
